@@ -1,0 +1,4 @@
+make a new repositories in git.
+we have to add remote connect where we want to push.
+git remote add origin http link
+git push -u origin master
