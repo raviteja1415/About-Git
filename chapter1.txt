@@ -1,0 +1,3 @@
+this is my first chapter . we have initialised the git using git init.
+next we are going to add file to stagging area. we see status using git status which shows
+which files are in stagging area
